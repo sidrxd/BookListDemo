@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">School Glink Demo</string>
+    <string name="book_image">Book Image</string>
+    <string name="book_name">Book Name</string>
+    <string name="book_author_name">Book Author Name</string>
 </resources>
